@@ -1,0 +1,7 @@
+1 - 최적화해서 덧셈
+2 - 다항식
+3 - 구구단
+4 - 버그하우스
+5 - 문자반복/redirection 시작 / read a line
+6 - 제곱 / read a line / inttostr / parseinteger32
+7 - worktime / 그냥 알고리즘만 했었나?
